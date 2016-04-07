@@ -59,6 +59,7 @@ docs/_build/
 # test db
 *.db
 dump.rdb
+*.sqlite3
 
 .DS_Store
 .idea
