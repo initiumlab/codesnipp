@@ -2,7 +2,7 @@
 
 ## Requirement #1
 
-* Have this project skeleton setup;
+* Have this project skeleton setup on your local machine;
 * Prepare either a Dockerfile or a Vagrantfile for this project so that collaborators of this project can have an unified environment to work on;
 
 ## Requirement #2 
