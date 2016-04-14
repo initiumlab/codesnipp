@@ -22,7 +22,7 @@ Test your project with unit testing and manual testing.
 
 Publish code snippets answer the following questions:
 
-Q1. What does this stuff mean: *args, **kwargs? And why would we use it?
+Q1. What does this stuff mean: `*args, **kwargs`? And why would we use it?
 
 Q2. Fill in the missing code:
 
